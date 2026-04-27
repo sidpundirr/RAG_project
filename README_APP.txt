@@ -7,7 +7,7 @@ DEVELOPED BY
 - Shivansh Pokhriyal
 - Siddharth Pundir
 
--Shivansh Pokhriyal - Shivansh is currently pursuing his bachelors from VMSB UTU Dehradun and is an honest guy
+-Siddharth Pundir - Siddharth  is currently pursuing his bachelors from VMSB UTU Dehradun and is an honest guy.
 --------------------------------------------------
 APPLICATION DESCRIPTION
 --------------------------------------------------
